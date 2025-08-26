@@ -1,15 +1,10 @@
 # The Game of Life
 
 A task manager app built with **React Native** and **Expo**.  
-
 This app alows you to gamify your life.  
-
 This is basically a task manager, but when you complete a task you earn XP and money, from which you can buy items from the shop.  
-
 You can add your tasks, make them daily or not, choose the type of stat this task will increase.  
-
 You have a game character, his stats increase every time you complete a task.  
-
 For example, when you do a workout, Power stat increases.  
 
 ## Features

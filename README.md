@@ -20,6 +20,6 @@ https://github.com/1andgraf/TheGameOfLife/releases
 
 ## Screenshots
 
-<img width="800" height="1400" alt="1" src="https://github.com/user-attachments/assets/9b73d93d-0acc-4b4a-9f9d-df5f01825103" />
-<img width="800" height="1400" alt="2" src="https://github.com/user-attachments/assets/39ad7344-ab16-4780-a6b8-bfdfd849af2b" />
+<img width="400" height="700" alt="1" src="https://github.com/user-attachments/assets/9b73d93d-0acc-4b4a-9f9d-df5f01825103" />
+<img width="400" height="700" alt="2" src="https://github.com/user-attachments/assets/39ad7344-ab16-4780-a6b8-bfdfd849af2b" />
 
